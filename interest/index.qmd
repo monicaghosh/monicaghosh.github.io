@@ -2,7 +2,7 @@
 title: "Interests"
 ---
 
-In my leisure time, I love painting and creating recipes. I like to share stories about these with the world through my blog at @thekolkatacook. And above all, I like to spread joy and smiles to everyone to make this journey of life an amiable one.
+In my leisure time, I love painting and curate new recipes. I like to share their stories with the world through my blog at [thekolkatacook](https://www.instagram.com/thekolkatacook/). My joy lies in sharing smiles with everyone around! 
 
 ::: {layout-ncol=2}
 
@@ -15,7 +15,6 @@ In my leisure time, I love painting and creating recipes. I like to share storie
 ![](DSC_1911.jpeg)
 
 :::
-
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
