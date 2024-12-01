@@ -1,0 +1,9 @@
+---
+title: Research Publications
+---
+
+1.  Essential Oils from Monarda fistulosa: Chemical Composition and Activation of Transient Receptor Potential A1 (TRPA1) Channels. Monica Ghosh, Igor A. Schepetkin, Gulmira Özek, Temel Özek, Andrei I. Khlebnikov, Derek S. Damron, Mark T. Quinn. Molecules 2020 Oct 22;25(21):4873. doi: 10.3390/molecules25214873
+2.  S‐nitroso‐L‐cysteine increases intracellular calcium in prenatal rat carotid body glomus cells. Paulina M Getsy, Gregory A Coffee, Monica Ghosh, Derek Damron, Stephen J Lewis. 01 April 2019 <https://doi.org/10.1096/fasebj.2019.33.1_supplement.551.13>
+3.  Pharmacological modulation of prostaglandin E2 (PGE2) EP receptors improve cardiomyocyte function under hyperglycemic conditions. Karin J. Bosma, Monica Ghosh, Spencer R. Andrei, Lin Zhong, Maureen Gannon. 2022 Apr 10. doi: 10.14814/phy2.15212
+4.  Stimulation of TRPA1 attenuates ischemia-induced cardiomyocyte cell death through an eNOS-mediated mechanism. Andrei SR, Ghosh M, Sinharoy P, Damron DS. Channels (Austin). 2019 Dec;13(1):192-206. doi: 10.1080/19336950.2019.1623591.
+5.  Modulation of TRPA1 channel activity by Cdk5 in sensory neurons. Sulak MA, Ghosh M, Sinharoy P, Andrei SR, Damron DS. Channels (Austin). 2018 Jan 1;12(1):65-75.doi: 10.1080/19336950.2018.1424282. 6. TRPA1 ion channel stimulation enhances cardiomyocyte contractile function via a CaMKII-dependent pathway. Andrei SR, Ghosh M, Sinharoy P, Dey S, Bratz

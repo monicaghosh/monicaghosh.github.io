@@ -1,0 +1,24 @@
+---
+title: "Interests"
+---
+
+In my leisure time, I love painting and creating recipes. I like to share stories about these with the world through my blog at @thekolkatacook. And above all, I like to spread joy and smiles to everyone to make this journey of life an amiable one.
+
+::: {layout-ncol=2}
+
+![](IMG_5800.jpg)
+
+![](IMG_5801.jpg)
+
+![](DSC_0602.jpeg)
+
+![](DSC_1911.jpeg)
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
